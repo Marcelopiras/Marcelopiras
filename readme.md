@@ -25,11 +25,6 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia, focado na criação 
   <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </div>
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelopiras&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Marcelo" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopiras&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</div>
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-abrantes-7614b82a6/)
