@@ -32,8 +32,8 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia, focado na criação 
 </div>
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-abrantes-7614b82a6/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelopiraz@gmail.com)
 
 ---
 ⭐️ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.*
